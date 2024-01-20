@@ -1,4 +1,4 @@
-# [CH02_01] MongoDB 소개
+# [CH02_02] MongoDB 소개
 
 ## MongoDB 특징
 - opensource기반의 NoSQL DB
